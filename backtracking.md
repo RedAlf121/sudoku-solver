@@ -7,11 +7,11 @@ Las soluciones con backtracking lo que se hace es una búsqueda en profundidad o
 Cada cambio sería un estado.  
 Por ejemplo con el sudoku:
 
-📷 Insertar imagen de sudoku
+![alt text](image.png)
 
 Se tiene el estado inicial que sería un sudoku sin resolver 🧩
 
-📷 Insertar imagen de sudoku resuelto
+![alt text](image-1.png)
 
 Y se tiene un estado final que sería un sudoku resuelto ✅
 
